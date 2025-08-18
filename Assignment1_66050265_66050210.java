@@ -18,6 +18,40 @@ import java.awt.image.BufferedImage;
 import java.util.*;
 import java.util.List;
 
+/** Make sure to compile ALL file before running 
+ * I have CompileAllFile.java for you
+ *  - Vector3D .java
+// - Object3D .java , Cube, Sphere, Prism
+// - EnhancedLightSource.java
+// - ParticleSystem.java
+// - BresenhamLine, MidpointCircle, BezierCurve
+// - Interpolation class 
+// - BirbPath.java
+// - BirbDraw.java
+* 
+ */
+/**
+ * Black Hole Simulation with Physics
+ * 
+ * SOURCES & INSPIRATION:
+ * - Bresenham Line Algorithm: "Computer Graphics: Principles and Practice" by
+ * Foley & van Dam and by Withchaya Towongpaichayon
+ * - Bezier Curves: by Withchaya Towongpaichayon
+ * - Midpoint by by Withchaya Towongpaichayon
+ * - 3D Projection Math: Standard computer graphics textbooks
+ * - Black Hole Physics: Inspired by Interstellar movie effects
+ * - Screen Shake: Game development techniques from Juice it or lose it (GDC talk)
+ *
+ * AND ==============================================
+ * Particle System From Game Programming Exit Exam by Birbpng 66050265 (me)
+ * Vector3D From Java Game Year 1 that was not used by Birbpng 66050265 (me)
+ * also lighting
+ * 
+ * All algorithms implemented using only Java 2D API
+ * 😭😭😭😭😭😭😭😭😭😭😭😭
+ * I thought i cant use setcolor and fill
+ */
+
 public class Assignment1_66050265_66050210 extends JPanel implements ActionListener, KeyListener {
     private static final int WIDTH = 600;
     private static final int HEIGHT = 600;
