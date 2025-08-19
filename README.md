@@ -20,3 +20,8 @@ The simulation is based on various algorithms and techniques from computer graph
 So please enjoy the simulation and feel free to modify the code (if u want) as you wish!
 
 - Birb Studio
+
+Picture inspiration source :
+
+[https://api.science.kmitl.ac.th](https://api.science.kmitl.ac.th/iam/storage/0197a71d-700c-72fa-896f-83935f622f91/%E0%B8%94%E0%B8%A3.%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%B0%20%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B9%84%E0%B8%9E%E0%B8%8A%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C.png?version=1080)
+![Image](https://api.science.kmitl.ac.th/iam/storage/0197a71d-700c-72fa-896f-83935f622f91/%E0%B8%94%E0%B8%A3.%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%B0%20%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B9%84%E0%B8%9E%E0%B8%8A%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C.png?version=1080)
