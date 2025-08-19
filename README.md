@@ -5,6 +5,13 @@
 
 *NOTICE*
 
+I have create 
+Vector3D.java 
+Object3D.java
+BirbPath.java (Similar with G2D)
+BirbDraw.java (Separate from BirbPath .. Use to draw polygon like oval circle)
+as a library
+
 Sometime when red error appear, it still runnable .. sometime
 To run the simulation (in this case is Blackhole Supernova REBORN AS CELESTIAL BEING GOD OF CG) the requirment is to have Java Development Kit (JDK) installed on your machine.
 and make sure your classpath is set correctly. Also performance of simulation may vary depending on your hardware. So GOOD LUCK
